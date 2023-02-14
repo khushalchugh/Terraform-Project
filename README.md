@@ -8,7 +8,7 @@ Commands:
 
 First of all, you should download the providers using:
 
-terraform init
+~terraform init~
 
 Note: This might take a few minutes
 
