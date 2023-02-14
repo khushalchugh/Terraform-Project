@@ -12,29 +12,29 @@ First of all, you should download the providers using:
 
 Note: This might take a few minutes
 
-Once the providers are downloaded. You can do
+Once the providers are downloaded. You can do:
 
-terraform plan
+~terraform plan
 
 This will show you what components are going to be created with aws
 
-If you are satisfied with the list, type
+If you are satisfied with the list, type:
 
-terraform apply
+~terraform apply
 
-This will again show you the list of components and a prompt will appear, type
+This will again show you the list of components and a prompt will appear, type:
 
-yes (in prompt) or any other key discard the changes
+~yes (in prompt) or any other key discard the changes
 
 This will start creating the components. The process should take about 10 minutes. 
 
 If you wish to revert back to the previous state and destroy all the components. You can do:
 
-terraform destroy
+~terraform destroy
 
-This will again ask for a prompt, type
+This will again ask for a prompt, type:
 
-yes (in prompt) or any other key discard the changes
+~yes (in prompt) or any other key discard the changes
 
 
 
