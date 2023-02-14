@@ -4,7 +4,7 @@ This is a project I created to showcase my knowledge in using the components of 
 
 file:///home/khushal/Documents/tf/Terraform%20Project/Architecture.png![image](https://user-images.githubusercontent.com/112554837/218684208-b51cd6a2-3daf-4207-b919-06459547c503.png)
 
-Commands:
+# Commands:
 
 First of all, you should download the providers using:
 
