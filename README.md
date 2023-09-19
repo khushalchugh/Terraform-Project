@@ -14,7 +14,7 @@ The key components of the infrastructure include:
 - **DNS** - Internal Route53 zone for private DNS resolution
 - **Security** - IAM roles granting least privilege permissions and Security Groups restricting traffic
 
-Refer to `file:///home/khushal/Documents/tf/Terraform%20Project/Architecture.png![image](https://user-images.githubusercontent.com/112554837/218684208-b51cd6a2-3daf-4207-b919-06459547c503.png)` for a diagram overview.
+Refer to file:///home/khushal/Documents/tf/Terraform%20Project/Architecture.png![image](https://user-images.githubusercontent.com/112554837/218684208-b51cd6a2-3daf-4207-b919-06459547c503.png) for a diagram overview.
 
 ## Modules
 
