@@ -14,7 +14,7 @@ The key components of the infrastructure include:
 - **DNS** - Internal Route53 zone for private DNS resolution
 - **Security** - IAM roles granting least privilege permissions and Security Groups restricting traffic
 
-Refer to file:'Architecture.png' for a diagram overview.
+Refer to file: ![Architecture](./Architecture.png) for a diagram overview.
 
 ## Modules
 
